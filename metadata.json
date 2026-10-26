@@ -1,0 +1,6 @@
+{
+  "name": "Eastern Mindoro College - Student Concern & Complaint Management System",
+  "description": "Centralized web-based student concern and complaint tracking, resolution, and administrative management portal for Eastern Mindoro College, Inc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
